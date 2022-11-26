@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="pitest-junit5-plugin-0.15">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../pitest-junit5-plugin-0.15.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
